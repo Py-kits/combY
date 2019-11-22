@@ -1,10 +1,9 @@
-## PR description
-```
+## Pull Request description
+
 - [ ] Recent PR does not interfere with app functionality
 - [ ] Recent PR does not fail any tests
-```
 
-# Type of PR
+## Type of Pull Request
 
 * New feature
 * Code cleaning
@@ -13,3 +12,4 @@
 
 <!--
 Fix for Digslists/##/PR
+-->
