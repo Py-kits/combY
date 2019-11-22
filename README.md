@@ -1,4 +1,4 @@
-![Digslist Logo](/img/digslists_logo.png)
+![Digslist Logo](/img/combY-logo.png)
 
 # CombY
 Website scraper for newest Ycombinator listings. Gives an output for the url and headline of the latests listings and saves everything inside a text file. 

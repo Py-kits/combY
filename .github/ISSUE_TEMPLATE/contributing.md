@@ -7,12 +7,12 @@ Please follow the issue template guideline before commiting any new pull request
 
 1. Fork the repository and set the main repository as the upstream remote
 
-'''git remote add upstream git@github.com:diglists/digslists.git'''
+'''git remote add upstream git@github.com:comby/comby.git'''
 
 2. Make a new branch with the new PR following these naming conventions:
 
 '''
-Digslists/Issue-type/name-of-issue-or-PR
+combY/Issue-type/name-of-issue-or-PR
 '''
 
 3. Run tests to ensure that nothing has broken with the new upcoming PR
