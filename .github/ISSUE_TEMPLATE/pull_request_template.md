@@ -11,5 +11,5 @@
 * Bug fix (Major, Medium, Minor)
 
 <!--
-Fix for Digslists/##/PR
+Fix for combY/##/PR
 -->
