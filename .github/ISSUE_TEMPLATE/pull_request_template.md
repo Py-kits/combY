@@ -1,15 +1,26 @@
-## Pull Request description
+# List of changes made
 
-- [ ] Recent PR does not interfere with app functionality
-- [ ] Recent PR does not fail any tests
 
-## Type of Pull Request
+
+------------------------------------------------------------
+
+## Type of PR
 
 * New feature
 * Code cleaning
 * New documentation
 * Bug fix (Major, Medium, Minor)
 
-<!--
-Fix for combY/##/PR
--->
+-------------------------------------------------------------
+
+### Bug check summary
+
+- [] Recent PR does not interfere with app functionality
+- [] Recent PR does not fail any tests
+
+------------------------------------------------------------
+
+<!---
+Example: 
+Fix|Update for combY/PR-Number/name_of_fix
+--->
