@@ -1,4 +1,4 @@
-![Digslist Logo](/img/combY-logo.png)
+![combY Logo](/img/combY-logo.png)
 
 # CombY
 Website scraper for newest Ycombinator listings. Gives an output for the url and headline of the latests listings and saves everything inside a text file. 
@@ -12,3 +12,7 @@ Website scraper for newest Ycombinator listings. Gives an output for the url and
 
 1) Go to the repository's folder
 2) Type ```python combY.py```
+
+# Future updates for app
+
+Creating an installable app for desktop use
